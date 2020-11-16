@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>평일_1900자바수업_변수영</name>
+	<name>day01</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1605539388418</id>
+			<id>1605539388402</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
