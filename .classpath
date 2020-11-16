@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="평일_1900자바수업_변수영/day01_T/src"/>
+	<classpathentry kind="src" path="평일_1900자바수업_변수영/day01/src"/>
+	<classpathentry kind="output" path="평일_1900자바수업_변수영/day01/bin"/>
+</classpath>
