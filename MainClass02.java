@@ -1,13 +1,12 @@
 package day09;
 
 import java.util.HashSet;
-import java.util.Iterator;
 
 public class MainClass02 {
 	public static void main(String[] args) {
 
-		System.out.println("¿À´ÃÀÇ ·Î¶Ç¹øÈ£´Â ");
-		// ·Î¶Ç¹øÈ£ ÃßÃ·±â
+		System.out.println("ì˜¤ëŠ˜ì˜ ë¡œë˜ë²ˆí˜¸ëŠ” ");
+		// ë¡œë˜ë²ˆí˜¸ ì¶”ì²¨ê¸°
 
 		while (true) {
 			HashSet num = new HashSet();
